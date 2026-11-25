@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá, eu sou o Isaque Nogueira Pereira 👋
 
-<!--
-**IsaqueNogueira2007/IsaqueNogueira2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **IFTM** (Previsão de conclusão: 2026 - 2028)  
+💻 Focado em desenvolvimento de software e lógica de programação com **C e Java**  
+🌱 Aprimorando conhecimentos em Orientação a Objetos, Estruturas de Dados e Back-end  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+
+![C](https://shields.io)
+![Java](https://shields.io)
+![Git](https://shields.io)
